@@ -7,7 +7,6 @@
     "password":"random",
     "email": "Sincere@april.biz",
     "role":"manager",
-	"avatar": "https://reqres.in/img/faces/1-image.jpg",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -33,7 +32,6 @@
     "password":"random",
     "email": "Shanna@melissa.tv",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/2-image.jpg",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -58,7 +56,6 @@
     "username": "Samantha",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/3-image.jpg",
     "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
@@ -84,7 +81,6 @@
     "username": "Karianne",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/4-image.jpg",
     "email": "Julianne.OConner@kory.org",
     "address": {
       "street": "Hoeger Mall",
@@ -110,7 +106,6 @@
     "username": "Kamren",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/5-image.jpg",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
       "street": "Skiles Walks",
@@ -136,7 +131,6 @@
     "username": "Leopoldo_Corkery",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/6-image.jpg",
     "email": "Karley_Dach@jasper.info",
     "address": {
       "street": "Norberto Crossing",
@@ -162,7 +156,6 @@
     "username": "Elwyn.Skiles",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/7-image.jpg",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
       "street": "Rex Trail",
@@ -188,7 +181,6 @@
     "username": "Maxime_Nienow",
     "password":"random",
     "role":"manager",
-	"avatar": "https://reqres.in/img/faces/8-image.jpg",
     "email": "Sherwood@rosamond.me",
     "address": {
       "street": "Ellsworth Summit",
@@ -214,7 +206,6 @@
     "username": "Delphine",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/9-image.jpg",
     "email": "Chaim_McDermott@dana.io",
     "address": {
       "street": "Dayna Park",
@@ -240,7 +231,6 @@
     "username": "Moriah.Stanton",
     "password":"random",
     "role":"employee",
-	"avatar": "https://reqres.in/img/faces/10-image.jpg",
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",

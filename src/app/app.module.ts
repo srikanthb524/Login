@@ -11,6 +11,7 @@ import { ErrorComponent } from './error/error.component';
 import { approutes } from './approutes';
 import { RouterModule } from '@angular/router';
 import {HttpClientModule} from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,7 +25,8 @@ import {HttpClientModule} from '@angular/common/http';
     BrowserModule,
     AppRoutingModule,
     RouterModule.forRoot(approutes),
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [LogactivateguardService],
   bootstrap: [AppComponent]
